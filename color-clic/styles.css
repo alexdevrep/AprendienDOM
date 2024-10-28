@@ -1,0 +1,23 @@
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}
+
+.color{
+    font-weight: bold;
+}
+
+.texto{
+    display:flex;
+    align-items: center;
+}
+
+span{
+    margin-left: 5px;
+}
